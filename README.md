@@ -1,11 +1,11 @@
-# DSC530-Final
+# Admission Regression Project
 
-Add the following to your GitHub repository.  
+The aim of this project is to complete a regression prediction of which variables are most likely to contribute to an individual's acceptance to a graduate program.
 
--Your dataset
+## Technologies
 
--A PowerPoint presentation outlining your statistical question/hypothesis
- 
--Your code or screenshots of your code
+This project utilizes Python, specifically the libraries: print_function, numpy, nsfg, first, thinkstats2, thinkplot, os, pandas, statistics, and seaborn.
 
--A 250-500-word paper 
+## Launch
+
+This project file contains all necessary files for independent project work. 
